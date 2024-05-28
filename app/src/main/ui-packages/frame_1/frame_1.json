@@ -1,0 +1,282 @@
+{
+  "name": "frame_1",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "R769GrH67X6hlq4QiU9P1L",
+    "node": "44:4",
+    "version": "5862519517",
+    "component-id": "60944766b0f71b9f8530570958eb933b02e7a5ea"
+  },
+  "default": "Property 1=Default",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "We present you a new project called Virtual box"
+      },
+      {
+        "type": "text",
+        "id": "In this application, you can easily create several spaces for work and more."
+      },
+      {
+        "type": "text",
+        "id": "Virtual box - allows you to run one operating system inside another."
+      },
+      {
+        "type": "image",
+        "id": "image 1"
+      },
+      {
+        "type": "text",
+        "id": "Description"
+      }
+    ],
+    "modes": {
+      "Property 1=Default": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "We present you a new project called Virtual box",
+              "In this application, you can easily create several spaces for work and more."
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "We present you a new project called Virtual box",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 73.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 65.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 271.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 450.0
+              }
+            },
+            "annotated-text-content": {
+              "text": "We present you a new project called\nVirtual box ",
+              "annotated-text-span-list": [
+                {
+                  "span-start": 0,
+                  "span-length": 36,
+                  "annotated-text-style": {
+                    "font-weight": 900.0,
+                    "typeface": "Inter",
+                    "case": "upper"
+                  }
+                },
+                {
+                  "span-start": 36,
+                  "span-length": 11,
+                  "annotated-text-style": {
+                    "font-weight": 535.0,
+                    "text-size": 36.0,
+                    "typeface": "Inter"
+                  }
+                },
+                {
+                  "span-start": 47,
+                  "span-length": 1
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 16.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "In this application, you can easily create several spaces for work and more.",
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 0.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 81.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 576.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 254.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 266.0
+              }
+            },
+            "font-weight": 577.0,
+            "text-content": "In this application, you can easily create several spaces for work and more.",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 24.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          }
+        ]
+      },
+      "Property 1=Variant2": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "Virtual box - allows you to run one operating system inside another.",
+              "image 1",
+              "Description"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Virtual box - allows you to run one operating system inside another.",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 68.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 113.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 268.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 640.0
+              }
+            },
+            "font-weight": 900.0,
+            "text-content": "Virtual box - allows you to run one operating system inside another.",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 20.0,
+            "line-height": 1.2102272033691406,
+            "typeface": "Inter"
+          },
+          {
+            "id": "image 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 457.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 354.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 336.0
+              }
+            },
+            "image-content": "image_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Description",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 86.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 34.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 233.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 56.0
+              }
+            },
+            "font-weight": 900.0,
+            "text-content": "Description",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 36.0,
+            "line-height": 1.2102272245619032,
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Property 1=Default",
+      "size": {
+        "width": 395.0,
+        "height": 842.0
+      }
+    },
+    {
+      "design": "Property 1=Variant2",
+      "size": {
+        "width": 395.0,
+        "height": 842.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
